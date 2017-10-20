@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box
+}
+
+div {
+    border: .2px solid black;
+}
+
+img {
+    text-align: center;
+}
+
+.col-lg-3 {
+    text-align: center;
+}
+
